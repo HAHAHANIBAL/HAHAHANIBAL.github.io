@@ -18,3 +18,5 @@ steam_username: kidrock2006
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-midnight
