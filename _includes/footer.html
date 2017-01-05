@@ -8,7 +8,7 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
 
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a href="mailto:{{ site.email }}">{'Email'}</a></li>
         </ul>
       </div>
       
@@ -22,27 +22,27 @@
           <li>
             {% include icon-github.html %}
           
-          {% endif %}
+            {% endif %}
 
-          {% if site.twitter_username %}
+            {% if site.twitter_username %}
 
             {% include icon-twitter.html %}
 
-          {% endif %}
+            {% endif %}
           
-          {% if site.linkedin_username %}
+            {% if site.linkedin_username %}
 
             {% include icon-linkedin.html %}
 
-          {% endif %}
+            {% endif %}
           
-          {% if site.steam_username %}
+            {% if site.steam_username %}
 
             {% include icon-steam.html %}
 
-          {% endif %}
+            {% endif %}
           
-          {% if site.instagram_username %}
+            {% if site.instagram_username %}
 
             {% include icon-instagram.html %}
           </li>
