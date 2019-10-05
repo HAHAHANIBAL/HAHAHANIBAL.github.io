@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <p align="center">
-  <img src="https://s30.postimg.org/vh15eugzl/13706969_1675894992734176_52535234_n.jpg"/>
+  <img src="https://img1.doubanio.com/icon/ul1615492-39.jpg"/>
 </p>
 
 <p>
